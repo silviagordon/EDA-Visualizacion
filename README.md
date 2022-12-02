@@ -1,6 +1,6 @@
 # Proyecto 2 - Equipo 2
 
-# Informacion general
+# Información general
 ***
 
 Este repositorio contiene un proyecto académico encargado por Adalab, para la exploración, análisis y visualización de diferentes datos.
