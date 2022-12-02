@@ -1,6 +1,4 @@
-# project-da-promo-c-modulo-2-team-2
-
-# Equipo 2
+# Proyecto 2 Equipo 2
 
 # Informacion general
 ***
