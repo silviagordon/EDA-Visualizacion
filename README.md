@@ -1,5 +1,4 @@
-# Proyecto 2 
-# Equipo 2
+# Proyecto 2  Equipo 2
 
 # Informacion general
 ***
