@@ -1,0 +1,180 @@
+,edad,pais,nivel de estudios,sector,algoritmos ML,años de experiencia,años de experiencia en ML,lenguaje mas usado,continente
+0,25-29,Poland,Master’s degree,Computers/Technology,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",3-5 years,Under 1 year,"Python, C++",Europa
+1,30-34,Viet Nam,Master’s degree,Academics/Education,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",1-3 years,1-2 years,Python,Asia
+2,22-24,Morocco,Master’s degree,Computers/Technology,"NULL, None",1-3 years,Under 1 year,"Python, SQL, MATLAB, Other",África
+3,18-21,Bangladesh,Bachelor’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",under 1 years,Under 1 year,Python,Asia
+4,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,"Python, SQL, C, C++",Asia
+5,22-24,Pakistan,Master’s degree,Academics/Education,"NULL, Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,"Python, C, C++",Asia
+6,22-24,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,3-5 years,Under 1 year,"Python, SQL, C, C++",Asia
+7,22-24,Ukraine,Master’s degree,Shipping/Transportation,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",3-5 years,2-3 years,"Python, SQL",Europa
+8,18-21,Turkey,Some college/university study without earning a bachelor’s degree,Academics/Education,,under 1 years,I do not use machine learning methods,Python,Asia
+9,40-44,France,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Evolutionary Approaches, Convolutional Neural Networks, Recurrent Neural Networks",20+ years,10-20 years,Python,Europa
+10,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,,,1-3 years,,"Python, SQL, C, Java, Javascript, MATLAB",Asia
+11,40-44,India,Doctoral degree,Academics/Education,"NULL, Convolutional Neural Networks",3-5 years,3-4 years,"Python, C, C++, MATLAB",Asia
+12,25-29,Other,Bachelor’s degree,Medical/Pharmaceutical,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",5-10 years,1-2 years,Python,
+13,22-24,South Korea,Some college/university study without earning a bachelor’s degree,Academics/Education,,1-3 years,I do not use machine learning methods,"Python, R, C, Java",Asia
+14,30-34,Japan,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",3-5 years,Under 1 year,"Python, Other",Asia
+15,22-24,India,Master’s degree,Computers/Technology,"NULL, Convolutional Neural Networks, Generative Adversarial Networks",under 1 years,1-2 years,Python,Asia
+16,25-29,India,Master’s degree,Government/Public Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,Under 1 year,Python,Asia
+17,22-24,Pakistan,Some college/university study without earning a bachelor’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc)",under 1 years,Under 1 year,Python,Asia
+18,35-39,United States of America,Doctoral degree,Hospitality/Entertainment/Sports,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc)",10-20 years,10-20 years,Python,América del Norte
+19,18-21,India,Bachelor’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches",under 1 years,Under 1 year,"Python, SQL, C",Asia
+20,25-29,Mexico,Bachelor’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Transformer Networks (BERT, gpt-3, etc)",3-5 years,2-3 years,"Python, SQL",América del Sur
+21,22-24,China,Master’s degree,Computers/Technology,"NULL, Recurrent Neural Networks",1-3 years,Under 1 year,"Python, Java, Javascript",Asia
+22,25-29,Saudi Arabia,Master’s degree,Energy/Mining,"Linear or Logistic Regression, Decision Trees or Random Forests",1-3 years,1-2 years,"Python, SQL, Swift, MATLAB",Asia
+23,22-24,Czech Republic,Master’s degree,Retail/Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,"Python, SQL",Europa
+24,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",under 1 years,Under 1 year,"Python, C, Java, Javascript",Asia
+25,25-29,Portugal,Master’s degree,Academics/Education,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks, Recurrent Neural Networks",3-5 years,1-2 years,Python,Europa
+26,30-34,Ukraine,Master’s degree,Government/Public Service,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",5-10 years,3-4 years,"Python, Javascript",Europa
+27,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",3-5 years,Under 1 year,"Python, C, C++",Asia
+28,22-24,India,Master’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks",3-5 years,3-4 years,Python,Asia
+29,22-24,India,Bachelor’s degree,Accounting/Finance,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,Under 1 year,"Python, SQL",Asia
+30,18-21,India,Doctoral degree,Academics/Education,Linear or Logistic Regression,under 1 years,Under 1 year,"Python, C, Java",Asia
+31,25-29,China,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,2-3 years,"Python, SQL, Java, MATLAB",Asia
+32,30-34,Pakistan,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests",3-5 years,2-3 years,"Python, SQL",Asia
+33,30-34,Sweden,Master’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",3-5 years,2-3 years,"Python, SQL, Bash",Europa
+34,35-39,Egypt,Professional doctorate,Academics/Education,"NULL, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",5-10 years,5-10 years,"NULL, MATLAB",África
+35,30-34,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,"NULL, Convolutional Neural Networks",10-20 years,10-20 years,"NULL, MATLAB",África
+36,18-21,Egypt,Some college/university study without earning a bachelor’s degree,,,under 1 years,I do not use machine learning methods,"Python, Other",África
+37,22-24,Nepal,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",under 1 years,Under 1 year,Python,Asia
+38,25-29,Other,Bachelor’s degree,Manufacturing/Fabrication,"NULL, Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,2-3 years,Python,
+39,25-29,Portugal,Master’s degree,Computers/Technology,"NULL, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,4-5 years,"Python, Bash, Other",Europa
+40,30-34,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",under 1 years,1-2 years,Python,África
+41,18-21,India,Bachelor’s degree,,,under 1 years,Under 1 year,"Python, SQL",Asia
+42,22-24,Russia,Bachelor’s degree,,,1-3 years,,"Python, SQL",Europa
+43,22-24,United States of America,Master’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,4-5 years,"Python, C++",América del Norte
+44,22-24,Turkey,Master’s degree,Military/Security/Defense,"NULL, Convolutional Neural Networks",3-5 years,2-3 years,Python,Asia
+45,18-21,Indonesia,Master’s degree,Energy/Mining,,I have never written code,,,Asia
+46,22-24,Pakistan,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Other",under 1 years,1-2 years,Python,Asia
+47,30-34,China,Master’s degree,Shipping/Transportation,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",3-5 years,3-4 years,"Python, Java",Asia
+48,30-34,Tunisia,Doctoral degree,Manufacturing/Fabrication,"Linear or Logistic Regression, Evolutionary Approaches, Convolutional Neural Networks, Recurrent Neural Networks",3-5 years,3-4 years,Python,África
+49,22-24,Canada,Master’s degree,Manufacturing/Fabrication,Linear or Logistic Regression,1-3 years,1-2 years,"Python, Java",América del Norte
+50,25-29,"Iran, Islamic Republic of...",Master’s degree,Computers/Technology,"NULL, Decision Trees or Random Forests, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,2-3 years,Python,África
+51,18-21,India,Master’s degree,Academics/Education,,1-3 years,I do not use machine learning methods,"NULL, C++",Asia
+52,25-29,Egypt,Master’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Evolutionary Approaches",3-5 years,4-5 years,"Python, SQL",África
+53,22-24,Russia,Bachelor’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",1-3 years,Under 1 year,"Python, R, SQL",Europa
+54,18-21,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests",1-3 years,Under 1 year,"Python, C, C++, Java",Asia
+55,30-34,Germany,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",3-5 years,2-3 years,Python,Europa
+56,25-29,Taiwan,Master’s degree,Insurance/Risk Assessment,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,Python,Asia
+57,25-29,Chile,Bachelor’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, SQL",América del Sur
+58,22-24,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,2-3 years,"Python, C",Asia
+59,25-29,India,Master’s degree,Academics/Education,"NULL, None",under 1 years,Under 1 year,Python,Asia
+60,30-34,"Iran, Islamic Republic of...",Doctoral degree,Medical/Pharmaceutical,"NULL, Decision Trees or Random Forests",1-3 years,1-2 years,"Python, MATLAB",África
+61,18-21,India,Some college/university study without earning a bachelor’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,"Python, Java, Javascript",Asia
+62,40-44,Indonesia,Master’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Other",1-3 years,1-2 years,"Python, SQL, Javascript, Bash, Other",Asia
+63,35-39,Iraq,Master’s degree,Government/Public Service,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",3-5 years,2-3 years,"Python, SQL",África
+64,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,1-2 years,Python,Europa
+65,22-24,India,Bachelor’s degree,,,1-3 years,1-2 years,"Python, SQL, C, Java, MATLAB",Asia
+66,25-29,Germany,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,"Python, C++, MATLAB",Europa
+67,25-29,Egypt,I prefer not to answer,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,Under 1 year,"Python, SQL",África
+68,18-21,India,Bachelor’s degree,Computers/Technology,"NULL, Bayesian Approaches, Evolutionary Approaches",under 1 years,1-2 years,"Python, C++",Asia
+69,35-39,Other,Master’s degree,,,5-10 years,1-2 years,"Python, SQL, C++, Java, MATLAB",
+70,18-21,India,Some college/university study without earning a bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches",1-3 years,Under 1 year,"Python, SQL, C++, Javascript",Asia
+71,22-24,India,I prefer not to answer,,,under 1 years,,"Python, C++, MATLAB",Asia
+72,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",5-10 years,5-10 years,Python,Europa
+73,30-34,France,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Transformer Networks (BERT, gpt-3, etc)",3-5 years,4-5 years,Python,Europa
+74,18-21,India,Bachelor’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,Python,Asia
+75,18-21,Sweden,Master’s degree,Medical/Pharmaceutical,"Linear or Logistic Regression, Convolutional Neural Networks",3-5 years,1-2 years,"Python, C++, Java",Europa
+76,25-29,Nigeria,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,Python,África
+77,18-21,Pakistan,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Convolutional Neural Networks",3-5 years,1-2 years,Python,Asia
+78,25-29,Egypt,I prefer not to answer,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests",3-5 years,Under 1 year,"Python, SQL, C",África
+79,40-44,Norway,Doctoral degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",under 1 years,Under 1 year,Python,Europa
+80,18-21,India,Master’s degree,Accounting/Finance,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Recurrent Neural Networks",5-10 years,3-4 years,"Python, SQL, Java",Asia
+81,22-24,India,Master’s degree,Energy/Mining,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,Python,Asia
+82,25-29,India,Bachelor’s degree,Broadcasting/Communications,"Linear or Logistic Regression, Dense Neural Networks (MLPs, etc), Recurrent Neural Networks",5-10 years,1-2 years,"Python, Java, Javascript",Asia
+83,18-21,India,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests",1-3 years,Under 1 year,Python,Asia
+84,25-29,India,Master’s degree,Online Business/Internet-based Sales,,I have never written code,,,Asia
+85,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",1-3 years,1-2 years,"Python, SQL, C, C++, Java, Javascript, MATLAB",Asia
+86,18-21,India,Some college/university study without earning a bachelor’s degree,Computers/Technology,,I have never written code,,,Asia
+87,22-24,India,Bachelor’s degree,Online Business/Internet-based Sales,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, R, SQL",Asia
+88,30-34,Taiwan,No formal education past high school,Computers/Technology,"NULL, Convolutional Neural Networks",5-10 years,1-2 years,"Python, C, C++, Java",Asia
+89,35-39,India,Master’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Evolutionary Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,5-10 years,Python,Asia
+90,22-24,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Evolutionary Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,4-5 years,"Python, Java, Javascript",Asia
+91,22-24,India,Master’s degree,Retail/Sales,"Linear or Logistic Regression, Decision Trees or Random Forests",under 1 years,Under 1 year,"Python, R, SQL",Asia
+92,25-29,India,I prefer not to answer,Accounting/Finance,"NULL, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,"Python, C++",Asia
+93,18-21,South Korea,No formal education past high school,Computers/Technology,"NULL, Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,Python,Asia
+94,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,Academics/Education,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Evolutionary Approaches",1-3 years,1-2 years,"Python, C, Java",Asia
+95,30-34,United States of America,Master’s degree,Accounting/Finance,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",3-5 years,3-4 years,"Python, SQL, Bash",América del Norte
+96,30-34,Germany,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc)",1-3 years,1-2 years,"Python, R, MATLAB",Europa
+97,25-29,China,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Transformer Networks (BERT, gpt-3, etc)",3-5 years,3-4 years,"Python, R, Java, MATLAB",Asia
+98,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",1-3 years,1-2 years,"Python, C++",Asia
+99,45-49,Taiwan,Master’s degree,Manufacturing/Fabrication,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",20+ years,4-5 years,"Python, SQL, C, C++, MATLAB",Asia
+100,25-29,India,Master’s degree,Other,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",1-3 years,1-2 years,"Python, Java",Asia
+101,25-29,India,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests",3-5 years,2-3 years,"Python, R",Asia
+102,22-24,Czech Republic,Master’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, SQL",Europa
+103,22-24,United Kingdom of Great Britain and Northern Ireland,Doctoral degree,,,10-20 years,5-10 years,"Python, Javascript, MATLAB",Europa
+104,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,1-2 years,"Python, C++, MATLAB",Asia
+105,25-29,France,Master’s degree,Academics/Education,"NULL, Convolutional Neural Networks",3-5 years,2-3 years,"Python, R, SQL, C, C++, Java, Javascript, Bash, MATLAB",Europa
+106,25-29,South Korea,Master’s degree,Manufacturing/Fabrication,"NULL, Decision Trees or Random Forests, Bayesian Approaches, Evolutionary Approaches, Convolutional Neural Networks",3-5 years,2-3 years,"NULL, R",Asia
+107,30-34,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",5-10 years,3-4 years,"Python, Javascript",Europa
+108,22-24,India,Master’s degree,Energy/Mining,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",1-3 years,1-2 years,Python,Asia
+109,30-34,Bangladesh,Doctoral degree,,,5-10 years,,"Python, SQL, C, C++, Javascript, MATLAB",Asia
+110,35-39,Czech Republic,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",5-10 years,5-10 years,"Python, SQL",Europa
+111,30-34,Taiwan,No formal education past high school,Broadcasting/Communications,"NULL, Generative Adversarial Networks",5-10 years,1-2 years,Python,Asia
+112,30-34,United Arab Emirates,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",5-10 years,2-3 years,"Python, C, C++, MATLAB",Asia
+113,55-59,Iraq,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Evolutionary Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",20+ years,10-20 years,"Python, C, C++, Java",África
+114,25-29,India,Master’s degree,Insurance/Risk Assessment,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, SQL, Bash",Asia
+115,25-29,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",under 1 years,Under 1 year,Python,Asia
+116,22-24,Other,Bachelor’s degree,,,1-3 years,,"Python, SQL, C, C++, MATLAB, Other",
+117,22-24,India,Master’s degree,Computers/Technology,,under 1 years,I do not use machine learning methods,"Python, SQL",Asia
+118,25-29,India,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,Under 1 year,Python,Asia
+119,22-24,Kazakhstan,Master’s degree,Shipping/Transportation,,I have never written code,,,Asia
+120,22-24,India,Master’s degree,Academics/Education,,under 1 years,I do not use machine learning methods,"NULL, C",Asia
+121,18-21,Turkey,Some college/university study without earning a bachelor’s degree,,,1-3 years,,"Python, C++",Asia
+122,18-21,Saudi Arabia,Bachelor’s degree,Academics/Education,"NULL, Decision Trees or Random Forests",1-3 years,Under 1 year,"Python, C, Java",Asia
+123,25-29,Poland,Master’s degree,Computers/Technology,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",3-5 years,Under 1 year,"Python, C++",Europa
+124,22-24,Czech Republic,Master’s degree,Computers/Technology,"NULL, Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,3-4 years,"Python, C++",Europa
+125,40-44,Chile,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc)",1-3 years,1-2 years,Python,América del Sur
+126,40-44,Italy,Doctoral degree,Computers/Technology,"NULL, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",10-20 years,10-20 years,"Python, SQL, Java, Bash",Europa
+127,22-24,India,Some college/university study without earning a bachelor’s degree,Academics/Education,,I have never written code,,,Asia
+128,30-34,Saudi Arabia,Bachelor’s degree,Computers/Technology,"NULL, None",under 1 years,Under 1 year,"Python, Javascript",Asia
+129,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Military/Security/Defense,"NULL, Convolutional Neural Networks, Generative Adversarial Networks",1-3 years,2-3 years,"Python, R",Europa
+130,30-34,Other,I prefer not to answer,Computers/Technology,,I have never written code,,,
+131,25-29,United States of America,Master’s degree,Manufacturing/Fabrication,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks",5-10 years,5-10 years,"Python, C++, Julia, Bash",América del Norte
+132,35-39,Other,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,"Python, SQL",
+133,30-34,Other,Master’s degree,Academics/Education,,I have never written code,,,
+134,35-39,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,"NULL, Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks",3-5 years,3-4 years,"Python, C++",África
+135,35-39,Russia,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,Under 1 year,"Python, SQL, Javascript",Europa
+136,25-29,Canada,Master’s degree,Other,"NULL, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,1-2 years,Python,América del Norte
+137,35-39,India,I prefer not to answer,Computers/Technology,"NULL, None",10-20 years,2-3 years,"Python, C++, Java",Asia
+138,30-34,China,Doctoral degree,Other,"Linear or Logistic Regression, Convolutional Neural Networks",3-5 years,1-2 years,"Python, MATLAB",Asia
+139,25-29,China,Master’s degree,Academics/Education,"NULL, None",under 1 years,Under 1 year,"NULL, Java",Asia
+140,25-29,Israel,Master’s degree,Manufacturing/Fabrication,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",5-10 years,1-2 years,"Python, SQL, Bash",Asia
+141,18-21,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,1-3 years,1-2 years,"Python, SQL, C, C++, Java",Asia
+142,18-21,Viet Nam,Some college/university study without earning a bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",under 1 years,Under 1 year,"Python, MATLAB",Asia
+143,22-24,Tunisia,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",3-5 years,1-2 years,"Python, SQL, C, Java, MATLAB",África
+144,18-21,India,Bachelor’s degree,Other,Linear or Logistic Regression,1-3 years,Under 1 year,"Python, SQL",Asia
+145,25-29,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,under 1 years,Under 1 year,"Python, Java",Asia
+146,22-24,Canada,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches",1-3 years,Under 1 year,Python,América del Norte
+147,40-44,United States of America,Bachelor’s degree,Other,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",under 1 years,Under 1 year,Python,América del Norte
+148,18-21,Egypt,Some college/university study without earning a bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks",1-3 years,Under 1 year,"Python, SQL, C++, Java, Javascript, MATLAB",África
+149,22-24,China,Some college/university study without earning a bachelor’s degree,Computers/Technology,,under 1 years,I do not use machine learning methods,Python,Asia
+150,18-21,Saudi Arabia,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,1-2 years,"Python, R, C++, Java",Asia
+151,18-21,India,Master’s degree,Academics/Education,,I have never written code,,,Asia
+152,35-39,United States of America,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks",5-10 years,5-10 years,"Python, SQL",América del Norte
+153,30-34,Turkey,Doctoral degree,,,3-5 years,,"Python, SQL",Asia
+154,25-29,Other,Master’s degree,,,3-5 years,,"Python, SQL",
+155,18-21,Russia,Bachelor’s degree,Online Service/Internet-based Services,"NULL, Decision Trees or Random Forests, Convolutional Neural Networks, Generative Adversarial Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,"Python, Java",Europa
+156,25-29,Other,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,Python,
+157,22-24,Tunisia,Master’s degree,Academics/Education,,I have never written code,,,África
+158,25-29,India,Master’s degree,,,1-3 years,1-2 years,Python,Asia
+159,35-39,India,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,2-3 years,"Python, R, MATLAB",Asia
+160,25-29,"Iran, Islamic Republic of...",I prefer not to answer,Academics/Education,,I have never written code,,,África
+161,35-39,Argentina,Doctoral degree,Other,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,4-5 years,"Python, C++, MATLAB",América del Sur
+162,22-24,Viet Nam,Bachelor’s degree,Medical/Pharmaceutical,"Linear or Logistic Regression, Decision Trees or Random Forests",under 1 years,Under 1 year,Python,Asia
+163,30-34,India,Master’s degree,Computers/Technology,Linear or Logistic Regression,10-20 years,1-2 years,"Python, Javascript",Asia
+164,25-29,Taiwan,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc)",5-10 years,4-5 years,"Python, R, SQL",Asia
+165,25-29,Egypt,Bachelor’s degree,,,under 1 years,,"Python, SQL, Java",África
+166,50-54,Indonesia,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",20+ years,10-20 years,"NULL, SQL, C, C++, Java, Javascript, MATLAB",Asia
+167,30-34,India,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Recurrent Neural Networks",1-3 years,Under 1 year,Python,Asia
+168,40-44,Netherlands,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Convolutional Neural Networks",20+ years,2-3 years,Python,Europa
+169,50-54,United States of America,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",10-20 years,10-20 years,"Python, R, Java, MATLAB",América del Norte
+170,25-29,India,Bachelor’s degree,Hospitality/Entertainment/Sports,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",1-3 years,2-3 years,"Python, SQL, MATLAB, Other",Asia
+171,35-39,India,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks",1-3 years,4-5 years,"Python, R, SQL, C++, Java",Asia
+172,22-24,South Korea,Bachelor’s degree,Academics/Education,"NULL, Generative Adversarial Networks",3-5 years,Under 1 year,"Python, C++",Asia
+173,22-24,Egypt,Bachelor’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",under 1 years,Under 1 year,Python,África
+174,25-29,Egypt,Master’s degree,Academics/Education,,5-10 years,I do not use machine learning methods,"Python, C, Java, Javascript, MATLAB",África
+175,18-21,Other,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",1-3 years,Under 1 year,"Python, R, C, C++",
+176,25-29,Thailand,Bachelor’s degree,Manufacturing/Fabrication,,1-3 years,I do not use machine learning methods,"NULL, C, MATLAB",Asia
+177,18-21,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,under 1 years,Under 1 year,"Python, C, Java",Asia
+178,25-29,Pakistan,Master’s degree,Online Service/Internet-based Services,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks",1-3 years,2-3 years,"Python, C++, Bash",Asia
