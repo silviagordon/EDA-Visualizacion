@@ -1,180 +1,180 @@
-,edad,pais,nivel de estudios,sector,algoritmos ML,años de experiencia,años de experiencia en ML,lenguaje mas usado
-0,25-29,Poland,Master’s degree,Computers/Technology,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",3-5 years,Under 1 year,"Python, C++"
-1,30-34,Viet Nam,Master’s degree,Academics/Education,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",1-3 years,1-2 years,Python
-2,22-24,Morocco,Master’s degree,Computers/Technology,"NULL, None",1-3 years,Under 1 year,"Python, SQL, MATLAB, Other"
-3,18-21,Bangladesh,Bachelor’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",under 1 years,Under 1 year,Python
-4,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,"Python, SQL, C, C++"
-5,22-24,Pakistan,Master’s degree,Academics/Education,"NULL, Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,"Python, C, C++"
-6,22-24,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,3-5 years,Under 1 year,"Python, SQL, C, C++"
-7,22-24,Ukraine,Master’s degree,Shipping/Transportation,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",3-5 years,2-3 years,"Python, SQL"
-8,18-21,Turkey,Some college/university study without earning a bachelor’s degree,Academics/Education,,under 1 years,I do not use machine learning methods,Python
-9,40-44,France,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Evolutionary Approaches, Convolutional Neural Networks, Recurrent Neural Networks",20+ years,10-20 years,Python
-10,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,,,1-3 years,,"Python, SQL, C, Java, Javascript, MATLAB"
-11,40-44,India,Doctoral degree,Academics/Education,"NULL, Convolutional Neural Networks",3-5 years,3-4 years,"Python, C, C++, MATLAB"
-12,25-29,Other,Bachelor’s degree,Medical/Pharmaceutical,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",5-10 years,1-2 years,Python
-13,22-24,South Korea,Some college/university study without earning a bachelor’s degree,Academics/Education,,1-3 years,I do not use machine learning methods,"Python, R, C, Java"
-14,30-34,Japan,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",3-5 years,Under 1 year,"Python, Other"
-15,22-24,India,Master’s degree,Computers/Technology,"NULL, Convolutional Neural Networks, Generative Adversarial Networks",under 1 years,1-2 years,Python
-16,25-29,India,Master’s degree,Government/Public Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,Under 1 year,Python
-17,22-24,Pakistan,Some college/university study without earning a bachelor’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc)",under 1 years,Under 1 year,Python
-18,35-39,United States of America,Doctoral degree,Hospitality/Entertainment/Sports,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc)",10-20 years,10-20 years,Python
-19,18-21,India,Bachelor’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches",under 1 years,Under 1 year,"Python, SQL, C"
-20,25-29,Mexico,Bachelor’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Transformer Networks (BERT, gpt-3, etc)",3-5 years,2-3 years,"Python, SQL"
-21,22-24,China,Master’s degree,Computers/Technology,"NULL, Recurrent Neural Networks",1-3 years,Under 1 year,"Python, Java, Javascript"
-22,25-29,Saudi Arabia,Master’s degree,Energy/Mining,"Linear or Logistic Regression, Decision Trees or Random Forests",1-3 years,1-2 years,"Python, SQL, Swift, MATLAB"
-23,22-24,Czech Republic,Master’s degree,Retail/Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,"Python, SQL"
-24,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",under 1 years,Under 1 year,"Python, C, Java, Javascript"
-25,25-29,Portugal,Master’s degree,Academics/Education,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks, Recurrent Neural Networks",3-5 years,1-2 years,Python
-26,30-34,Ukraine,Master’s degree,Government/Public Service,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",5-10 years,3-4 years,"Python, Javascript"
-27,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",3-5 years,Under 1 year,"Python, C, C++"
-28,22-24,India,Master’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks",3-5 years,3-4 years,Python
-29,22-24,India,Bachelor’s degree,Accounting/Finance,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,Under 1 year,"Python, SQL"
-30,18-21,India,Doctoral degree,Academics/Education,Linear or Logistic Regression,under 1 years,Under 1 year,"Python, C, Java"
-31,25-29,China,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,2-3 years,"Python, SQL, Java, MATLAB"
-32,30-34,Pakistan,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests",3-5 years,2-3 years,"Python, SQL"
-33,30-34,Sweden,Master’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",3-5 years,2-3 years,"Python, SQL, Bash"
-34,35-39,Egypt,Professional doctorate,Academics/Education,"NULL, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",5-10 years,5-10 years,"NULL, MATLAB"
-35,30-34,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,"NULL, Convolutional Neural Networks",10-20 years,10-20 years,"NULL, MATLAB"
-36,18-21,Egypt,Some college/university study without earning a bachelor’s degree,,,under 1 years,I do not use machine learning methods,"Python, Other"
-37,22-24,Nepal,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",under 1 years,Under 1 year,Python
-38,25-29,Other,Bachelor’s degree,Manufacturing/Fabrication,"NULL, Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,2-3 years,Python
-39,25-29,Portugal,Master’s degree,Computers/Technology,"NULL, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,4-5 years,"Python, Bash, Other"
-40,30-34,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",under 1 years,1-2 years,Python
-41,18-21,India,Bachelor’s degree,,,under 1 years,Under 1 year,"Python, SQL"
-42,22-24,Russia,Bachelor’s degree,,,1-3 years,,"Python, SQL"
-43,22-24,United States of America,Master’s degree,Computers/Technology,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,4-5 years,"Python, C++"
-44,22-24,Turkey,Master’s degree,Military/Security/Defense,"NULL, Convolutional Neural Networks",3-5 years,2-3 years,Python
-45,18-21,Indonesia,Master’s degree,Energy/Mining,,I have never written code,,
-46,22-24,Pakistan,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Other",under 1 years,1-2 years,Python
-47,30-34,China,Master’s degree,Shipping/Transportation,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",3-5 years,3-4 years,"Python, Java"
-48,30-34,Tunisia,Doctoral degree,Manufacturing/Fabrication,"Linear or Logistic Regression, Evolutionary Approaches, Convolutional Neural Networks, Recurrent Neural Networks",3-5 years,3-4 years,Python
-49,22-24,Canada,Master’s degree,Manufacturing/Fabrication,Linear or Logistic Regression,1-3 years,1-2 years,"Python, Java"
-50,25-29,"Iran, Islamic Republic of...",Master’s degree,Computers/Technology,"NULL, Decision Trees or Random Forests, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,2-3 years,Python
-51,18-21,India,Master’s degree,Academics/Education,,1-3 years,I do not use machine learning methods,"NULL, C++"
-52,25-29,Egypt,Master’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Evolutionary Approaches",3-5 years,4-5 years,"Python, SQL"
-53,22-24,Russia,Bachelor’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",1-3 years,Under 1 year,"Python, R, SQL"
-54,18-21,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests",1-3 years,Under 1 year,"Python, C, C++, Java"
-55,30-34,Germany,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",3-5 years,2-3 years,Python
-56,25-29,Taiwan,Master’s degree,Insurance/Risk Assessment,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,Python
-57,25-29,Chile,Bachelor’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, SQL"
-58,22-24,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,2-3 years,"Python, C"
-59,25-29,India,Master’s degree,Academics/Education,"NULL, None",under 1 years,Under 1 year,Python
-60,30-34,"Iran, Islamic Republic of...",Doctoral degree,Medical/Pharmaceutical,"NULL, Decision Trees or Random Forests",1-3 years,1-2 years,"Python, MATLAB"
-61,18-21,India,Some college/university study without earning a bachelor’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,"Python, Java, Javascript"
-62,40-44,Indonesia,Master’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Other",1-3 years,1-2 years,"Python, SQL, Javascript, Bash, Other"
-63,35-39,Iraq,Master’s degree,Government/Public Service,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",3-5 years,2-3 years,"Python, SQL"
-64,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,1-2 years,Python
-65,22-24,India,Bachelor’s degree,,,1-3 years,1-2 years,"Python, SQL, C, Java, MATLAB"
-66,25-29,Germany,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,"Python, C++, MATLAB"
-67,25-29,Egypt,I prefer not to answer,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,Under 1 year,"Python, SQL"
-68,18-21,India,Bachelor’s degree,Computers/Technology,"NULL, Bayesian Approaches, Evolutionary Approaches",under 1 years,1-2 years,"Python, C++"
-69,35-39,Other,Master’s degree,,,5-10 years,1-2 years,"Python, SQL, C++, Java, MATLAB"
-70,18-21,India,Some college/university study without earning a bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches",1-3 years,Under 1 year,"Python, SQL, C++, Javascript"
-71,22-24,India,I prefer not to answer,,,under 1 years,,"Python, C++, MATLAB"
-72,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",5-10 years,5-10 years,Python
-73,30-34,France,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Transformer Networks (BERT, gpt-3, etc)",3-5 years,4-5 years,Python
-74,18-21,India,Bachelor’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,Python
-75,18-21,Sweden,Master’s degree,Medical/Pharmaceutical,"Linear or Logistic Regression, Convolutional Neural Networks",3-5 years,1-2 years,"Python, C++, Java"
-76,25-29,Nigeria,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,Python
-77,18-21,Pakistan,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Convolutional Neural Networks",3-5 years,1-2 years,Python
-78,25-29,Egypt,I prefer not to answer,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests",3-5 years,Under 1 year,"Python, SQL, C"
-79,40-44,Norway,Doctoral degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",under 1 years,Under 1 year,Python
-80,18-21,India,Master’s degree,Accounting/Finance,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Recurrent Neural Networks",5-10 years,3-4 years,"Python, SQL, Java"
-81,22-24,India,Master’s degree,Energy/Mining,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,Python
-82,25-29,India,Bachelor’s degree,Broadcasting/Communications,"Linear or Logistic Regression, Dense Neural Networks (MLPs, etc), Recurrent Neural Networks",5-10 years,1-2 years,"Python, Java, Javascript"
-83,18-21,India,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests",1-3 years,Under 1 year,Python
-84,25-29,India,Master’s degree,Online Business/Internet-based Sales,,I have never written code,,
-85,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",1-3 years,1-2 years,"Python, SQL, C, C++, Java, Javascript, MATLAB"
-86,18-21,India,Some college/university study without earning a bachelor’s degree,Computers/Technology,,I have never written code,,
-87,22-24,India,Bachelor’s degree,Online Business/Internet-based Sales,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, R, SQL"
-88,30-34,Taiwan,No formal education past high school,Computers/Technology,"NULL, Convolutional Neural Networks",5-10 years,1-2 years,"Python, C, C++, Java"
-89,35-39,India,Master’s degree,Other,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Evolutionary Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,5-10 years,Python
-90,22-24,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Evolutionary Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,4-5 years,"Python, Java, Javascript"
-91,22-24,India,Master’s degree,Retail/Sales,"Linear or Logistic Regression, Decision Trees or Random Forests",under 1 years,Under 1 year,"Python, R, SQL"
-92,25-29,India,I prefer not to answer,Accounting/Finance,"NULL, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,"Python, C++"
-93,18-21,South Korea,No formal education past high school,Computers/Technology,"NULL, Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,Python
-94,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,Academics/Education,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Evolutionary Approaches",1-3 years,1-2 years,"Python, C, Java"
-95,30-34,United States of America,Master’s degree,Accounting/Finance,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",3-5 years,3-4 years,"Python, SQL, Bash"
-96,30-34,Germany,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc)",1-3 years,1-2 years,"Python, R, MATLAB"
-97,25-29,China,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Transformer Networks (BERT, gpt-3, etc)",3-5 years,3-4 years,"Python, R, Java, MATLAB"
-98,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",1-3 years,1-2 years,"Python, C++"
-99,45-49,Taiwan,Master’s degree,Manufacturing/Fabrication,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",20+ years,4-5 years,"Python, SQL, C, C++, MATLAB"
-100,25-29,India,Master’s degree,Other,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",1-3 years,1-2 years,"Python, Java"
-101,25-29,India,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests",3-5 years,2-3 years,"Python, R"
-102,22-24,Czech Republic,Master’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, SQL"
-103,22-24,United Kingdom of Great Britain and Northern Ireland,Doctoral degree,,,10-20 years,5-10 years,"Python, Javascript, MATLAB"
-104,18-21,India,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,1-2 years,"Python, C++, MATLAB"
-105,25-29,France,Master’s degree,Academics/Education,"NULL, Convolutional Neural Networks",3-5 years,2-3 years,"Python, R, SQL, C, C++, Java, Javascript, Bash, MATLAB"
-106,25-29,South Korea,Master’s degree,Manufacturing/Fabrication,"NULL, Decision Trees or Random Forests, Bayesian Approaches, Evolutionary Approaches, Convolutional Neural Networks",3-5 years,2-3 years,"NULL, R"
-107,30-34,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Online Business/Internet-based Sales,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches",5-10 years,3-4 years,"Python, Javascript"
-108,22-24,India,Master’s degree,Energy/Mining,"NULL, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",1-3 years,1-2 years,Python
-109,30-34,Bangladesh,Doctoral degree,,,5-10 years,,"Python, SQL, C, C++, Javascript, MATLAB"
-110,35-39,Czech Republic,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",5-10 years,5-10 years,"Python, SQL"
-111,30-34,Taiwan,No formal education past high school,Broadcasting/Communications,"NULL, Generative Adversarial Networks",5-10 years,1-2 years,Python
-112,30-34,United Arab Emirates,Master’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",5-10 years,2-3 years,"Python, C, C++, MATLAB"
-113,55-59,Iraq,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Evolutionary Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",20+ years,10-20 years,"Python, C, C++, Java"
-114,25-29,India,Master’s degree,Insurance/Risk Assessment,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,1-2 years,"Python, SQL, Bash"
-115,25-29,India,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",under 1 years,Under 1 year,Python
-116,22-24,Other,Bachelor’s degree,,,1-3 years,,"Python, SQL, C, C++, MATLAB, Other"
-117,22-24,India,Master’s degree,Computers/Technology,,under 1 years,I do not use machine learning methods,"Python, SQL"
-118,25-29,India,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,Under 1 year,Python
-119,22-24,Kazakhstan,Master’s degree,Shipping/Transportation,,I have never written code,,
-120,22-24,India,Master’s degree,Academics/Education,,under 1 years,I do not use machine learning methods,"NULL, C"
-121,18-21,Turkey,Some college/university study without earning a bachelor’s degree,,,1-3 years,,"Python, C++"
-122,18-21,Saudi Arabia,Bachelor’s degree,Academics/Education,"NULL, Decision Trees or Random Forests",1-3 years,Under 1 year,"Python, C, Java"
-123,25-29,Poland,Master’s degree,Computers/Technology,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",3-5 years,Under 1 year,"Python, C++"
-124,22-24,Czech Republic,Master’s degree,Computers/Technology,"NULL, Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",5-10 years,3-4 years,"Python, C++"
-125,40-44,Chile,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc)",1-3 years,1-2 years,Python
-126,40-44,Italy,Doctoral degree,Computers/Technology,"NULL, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",10-20 years,10-20 years,"Python, SQL, Java, Bash"
-127,22-24,India,Some college/university study without earning a bachelor’s degree,Academics/Education,,I have never written code,,
-128,30-34,Saudi Arabia,Bachelor’s degree,Computers/Technology,"NULL, None",under 1 years,Under 1 year,"Python, Javascript"
-129,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Military/Security/Defense,"NULL, Convolutional Neural Networks, Generative Adversarial Networks",1-3 years,2-3 years,"Python, R"
-130,30-34,Other,I prefer not to answer,Computers/Technology,,I have never written code,,
-131,25-29,United States of America,Master’s degree,Manufacturing/Fabrication,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks",5-10 years,5-10 years,"Python, C++, Julia, Bash"
-132,35-39,Other,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",under 1 years,Under 1 year,"Python, SQL"
-133,30-34,Other,Master’s degree,Academics/Education,,I have never written code,,
-134,35-39,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,"NULL, Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks",3-5 years,3-4 years,"Python, C++"
-135,35-39,Russia,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,Under 1 year,"Python, SQL, Javascript"
-136,25-29,Canada,Master’s degree,Other,"NULL, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,1-2 years,Python
-137,35-39,India,I prefer not to answer,Computers/Technology,"NULL, None",10-20 years,2-3 years,"Python, C++, Java"
-138,30-34,China,Doctoral degree,Other,"Linear or Logistic Regression, Convolutional Neural Networks",3-5 years,1-2 years,"Python, MATLAB"
-139,25-29,China,Master’s degree,Academics/Education,"NULL, None",under 1 years,Under 1 year,"NULL, Java"
-140,25-29,Israel,Master’s degree,Manufacturing/Fabrication,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",5-10 years,1-2 years,"Python, SQL, Bash"
-141,18-21,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,1-3 years,1-2 years,"Python, SQL, C, C++, Java"
-142,18-21,Viet Nam,Some college/university study without earning a bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc), Convolutional Neural Networks",under 1 years,Under 1 year,"Python, MATLAB"
-143,22-24,Tunisia,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks",3-5 years,1-2 years,"Python, SQL, C, Java, MATLAB"
-144,18-21,India,Bachelor’s degree,Other,Linear or Logistic Regression,1-3 years,Under 1 year,"Python, SQL"
-145,25-29,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,under 1 years,Under 1 year,"Python, Java"
-146,22-24,Canada,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches",1-3 years,Under 1 year,Python
-147,40-44,United States of America,Bachelor’s degree,Other,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",under 1 years,Under 1 year,Python
-148,18-21,Egypt,Some college/university study without earning a bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks",1-3 years,Under 1 year,"Python, SQL, C++, Java, Javascript, MATLAB"
-149,22-24,China,Some college/university study without earning a bachelor’s degree,Computers/Technology,,under 1 years,I do not use machine learning methods,Python
-150,18-21,Saudi Arabia,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks, Recurrent Neural Networks",1-3 years,1-2 years,"Python, R, C++, Java"
-151,18-21,India,Master’s degree,Academics/Education,,I have never written code,,
-152,35-39,United States of America,Master’s degree,Online Service/Internet-based Services,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks",5-10 years,5-10 years,"Python, SQL"
-153,30-34,Turkey,Doctoral degree,,,3-5 years,,"Python, SQL"
-154,25-29,Other,Master’s degree,,,3-5 years,,"Python, SQL"
-155,18-21,Russia,Bachelor’s degree,Online Service/Internet-based Services,"NULL, Decision Trees or Random Forests, Convolutional Neural Networks, Generative Adversarial Networks, Transformer Networks (BERT, gpt-3, etc)",1-3 years,1-2 years,"Python, Java"
-156,25-29,Other,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,Under 1 year,Python
-157,22-24,Tunisia,Master’s degree,Academics/Education,,I have never written code,,
-158,25-29,India,Master’s degree,,,1-3 years,1-2 years,Python
-159,35-39,India,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",1-3 years,2-3 years,"Python, R, MATLAB"
-160,25-29,"Iran, Islamic Republic of...",I prefer not to answer,Academics/Education,,I have never written code,,
-161,35-39,Argentina,Doctoral degree,Other,"NULL, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks, Transformer Networks (BERT, gpt-3, etc)",3-5 years,4-5 years,"Python, C++, MATLAB"
-162,22-24,Viet Nam,Bachelor’s degree,Medical/Pharmaceutical,"Linear or Logistic Regression, Decision Trees or Random Forests",under 1 years,Under 1 year,Python
-163,30-34,India,Master’s degree,Computers/Technology,Linear or Logistic Regression,10-20 years,1-2 years,"Python, Javascript"
-164,25-29,Taiwan,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Dense Neural Networks (MLPs, etc)",5-10 years,4-5 years,"Python, R, SQL"
-165,25-29,Egypt,Bachelor’s degree,,,under 1 years,,"Python, SQL, Java"
-166,50-54,Indonesia,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Bayesian Approaches, Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Recurrent Neural Networks",20+ years,10-20 years,"NULL, SQL, C, C++, Java, Javascript, MATLAB"
-167,30-34,India,Master’s degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Recurrent Neural Networks",1-3 years,Under 1 year,Python
-168,40-44,Netherlands,Bachelor’s degree,Computers/Technology,"Linear or Logistic Regression, Convolutional Neural Networks",20+ years,2-3 years,Python
-169,50-54,United States of America,Doctoral degree,Computers/Technology,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc)",10-20 years,10-20 years,"Python, R, Java, MATLAB"
-170,25-29,India,Bachelor’s degree,Hospitality/Entertainment/Sports,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",1-3 years,2-3 years,"Python, SQL, MATLAB, Other"
-171,35-39,India,Doctoral degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Bayesian Approaches, Convolutional Neural Networks",1-3 years,4-5 years,"Python, R, SQL, C++, Java"
-172,22-24,South Korea,Bachelor’s degree,Academics/Education,"NULL, Generative Adversarial Networks",3-5 years,Under 1 year,"Python, C++"
-173,22-24,Egypt,Bachelor’s degree,Non-profit/Service,"Linear or Logistic Regression, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc)",under 1 years,Under 1 year,Python
-174,25-29,Egypt,Master’s degree,Academics/Education,,5-10 years,I do not use machine learning methods,"Python, C, Java, Javascript, MATLAB"
-175,18-21,Other,Bachelor’s degree,Academics/Education,"Linear or Logistic Regression, Decision Trees or Random Forests, Convolutional Neural Networks",1-3 years,Under 1 year,"Python, R, C, C++"
-176,25-29,Thailand,Bachelor’s degree,Manufacturing/Fabrication,,1-3 years,I do not use machine learning methods,"NULL, C, MATLAB"
-177,18-21,India,Bachelor’s degree,Academics/Education,Linear or Logistic Regression,under 1 years,Under 1 year,"Python, C, Java"
-178,25-29,Pakistan,Master’s degree,Online Service/Internet-based Services,"NULL, Decision Trees or Random Forests, Gradient Boosting Machines (xgboost, lightgbm, etc), Dense Neural Networks (MLPs, etc), Convolutional Neural Networks, Generative Adversarial Networks",1-3 years,2-3 years,"Python, C++, Bash"
+,edad,pais,nivel de estudios,sector,años de experiencia,años de experiencia en ML,lenguaje mas usado
+0,25-29,Poland,Master’s degree,Computers/Technology,3-5 years,Under 1 year,"Python, C++"
+1,30-34,Viet Nam,Master’s degree,Academics/Education,1-3 years,1-2 years,Python
+2,22-24,Morocco,Master’s degree,Computers/Technology,1-3 years,Under 1 year,"Python, SQL, MATLAB, Other"
+3,18-21,Bangladesh,Bachelor’s degree,Non-profit/Service,under 1 years,Under 1 year,Python
+4,18-21,India,Bachelor’s degree,Academics/Education,1-3 years,Under 1 year,"Python, SQL, C, C++"
+5,22-24,Pakistan,Master’s degree,Academics/Education,under 1 years,Under 1 year,"Python, C, C++"
+6,22-24,India,Bachelor’s degree,Academics/Education,3-5 years,Under 1 year,"Python, SQL, C, C++"
+7,22-24,Ukraine,Master’s degree,Shipping/Transportation,3-5 years,2-3 years,"Python, SQL"
+8,18-21,Turkey,Some college/university study without earning a bachelor’s degree,Academics/Education,under 1 years,I do not use machine learning methods,Python
+9,40-44,France,Doctoral degree,Computers/Technology,20+ years,10-20 years,Python
+10,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,,1-3 years,,"Python, SQL, C, Java, Javascript, MATLAB"
+11,40-44,India,Doctoral degree,Academics/Education,3-5 years,3-4 years,"Python, C, C++, MATLAB"
+12,25-29,Other,Bachelor’s degree,Medical/Pharmaceutical,5-10 years,1-2 years,Python
+13,22-24,South Korea,Some college/university study without earning a bachelor’s degree,Academics/Education,1-3 years,I do not use machine learning methods,"Python, R, C, Java"
+14,30-34,Japan,Bachelor’s degree,Computers/Technology,3-5 years,Under 1 year,"Python, Other"
+15,22-24,India,Master’s degree,Computers/Technology,under 1 years,1-2 years,Python
+16,25-29,India,Master’s degree,Government/Public Service,1-3 years,Under 1 year,Python
+17,22-24,Pakistan,Some college/university study without earning a bachelor’s degree,Computers/Technology,under 1 years,Under 1 year,Python
+18,35-39,United States of America,Doctoral degree,Hospitality/Entertainment/Sports,10-20 years,10-20 years,Python
+19,18-21,India,Bachelor’s degree,Other,under 1 years,Under 1 year,"Python, SQL, C"
+20,25-29,Mexico,Bachelor’s degree,Online Business/Internet-based Sales,3-5 years,2-3 years,"Python, SQL"
+21,22-24,China,Master’s degree,Computers/Technology,1-3 years,Under 1 year,"Python, Java, Javascript"
+22,25-29,Saudi Arabia,Master’s degree,Energy/Mining,1-3 years,1-2 years,"Python, SQL, Swift, MATLAB"
+23,22-24,Czech Republic,Master’s degree,Retail/Sales,1-3 years,Under 1 year,"Python, SQL"
+24,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,Computers/Technology,under 1 years,Under 1 year,"Python, C, Java, Javascript"
+25,25-29,Portugal,Master’s degree,Academics/Education,3-5 years,1-2 years,Python
+26,30-34,Ukraine,Master’s degree,Government/Public Service,5-10 years,3-4 years,"Python, Javascript"
+27,18-21,India,Bachelor’s degree,Academics/Education,3-5 years,Under 1 year,"Python, C, C++"
+28,22-24,India,Master’s degree,Computers/Technology,3-5 years,3-4 years,Python
+29,22-24,India,Bachelor’s degree,Accounting/Finance,3-5 years,Under 1 year,"Python, SQL"
+30,18-21,India,Doctoral degree,Academics/Education,under 1 years,Under 1 year,"Python, C, Java"
+31,25-29,China,Master’s degree,Online Service/Internet-based Services,1-3 years,2-3 years,"Python, SQL, Java, MATLAB"
+32,30-34,Pakistan,Doctoral degree,Computers/Technology,3-5 years,2-3 years,"Python, SQL"
+33,30-34,Sweden,Master’s degree,Computers/Technology,3-5 years,2-3 years,"Python, SQL, Bash"
+34,35-39,Egypt,Professional doctorate,Academics/Education,5-10 years,5-10 years,"NULL, MATLAB"
+35,30-34,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,10-20 years,10-20 years,"NULL, MATLAB"
+36,18-21,Egypt,Some college/university study without earning a bachelor’s degree,,under 1 years,I do not use machine learning methods,"Python, Other"
+37,22-24,Nepal,Bachelor’s degree,Computers/Technology,under 1 years,Under 1 year,Python
+38,25-29,Other,Bachelor’s degree,Manufacturing/Fabrication,5-10 years,2-3 years,Python
+39,25-29,Portugal,Master’s degree,Computers/Technology,5-10 years,4-5 years,"Python, Bash, Other"
+40,30-34,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,under 1 years,1-2 years,Python
+41,18-21,India,Bachelor’s degree,,under 1 years,Under 1 year,"Python, SQL"
+42,22-24,Russia,Bachelor’s degree,,1-3 years,,"Python, SQL"
+43,22-24,United States of America,Master’s degree,Computers/Technology,5-10 years,4-5 years,"Python, C++"
+44,22-24,Turkey,Master’s degree,Military/Security/Defense,3-5 years,2-3 years,Python
+45,18-21,Indonesia,Master’s degree,Energy/Mining,I have never written code,,
+46,22-24,Pakistan,Master’s degree,Online Service/Internet-based Services,under 1 years,1-2 years,Python
+47,30-34,China,Master’s degree,Shipping/Transportation,3-5 years,3-4 years,"Python, Java"
+48,30-34,Tunisia,Doctoral degree,Manufacturing/Fabrication,3-5 years,3-4 years,Python
+49,22-24,Canada,Master’s degree,Manufacturing/Fabrication,1-3 years,1-2 years,"Python, Java"
+50,25-29,"Iran, Islamic Republic of...",Master’s degree,Computers/Technology,1-3 years,2-3 years,Python
+51,18-21,India,Master’s degree,Academics/Education,1-3 years,I do not use machine learning methods,"NULL, C++"
+52,25-29,Egypt,Master’s degree,Non-profit/Service,3-5 years,4-5 years,"Python, SQL"
+53,22-24,Russia,Bachelor’s degree,Online Business/Internet-based Sales,1-3 years,Under 1 year,"Python, R, SQL"
+54,18-21,India,Bachelor’s degree,Computers/Technology,1-3 years,Under 1 year,"Python, C, C++, Java"
+55,30-34,Germany,Master’s degree,Computers/Technology,3-5 years,2-3 years,Python
+56,25-29,Taiwan,Master’s degree,Insurance/Risk Assessment,1-3 years,1-2 years,Python
+57,25-29,Chile,Bachelor’s degree,Other,1-3 years,1-2 years,"Python, SQL"
+58,22-24,India,Bachelor’s degree,Computers/Technology,under 1 years,2-3 years,"Python, C"
+59,25-29,India,Master’s degree,Academics/Education,under 1 years,Under 1 year,Python
+60,30-34,"Iran, Islamic Republic of...",Doctoral degree,Medical/Pharmaceutical,1-3 years,1-2 years,"Python, MATLAB"
+61,18-21,India,Some college/university study without earning a bachelor’s degree,Non-profit/Service,under 1 years,Under 1 year,"Python, Java, Javascript"
+62,40-44,Indonesia,Master’s degree,Other,1-3 years,1-2 years,"Python, SQL, Javascript, Bash, Other"
+63,35-39,Iraq,Master’s degree,Government/Public Service,3-5 years,2-3 years,"Python, SQL"
+64,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Academics/Education,3-5 years,1-2 years,Python
+65,22-24,India,Bachelor’s degree,,1-3 years,1-2 years,"Python, SQL, C, Java, MATLAB"
+66,25-29,Germany,Master’s degree,Computers/Technology,1-3 years,1-2 years,"Python, C++, MATLAB"
+67,25-29,Egypt,I prefer not to answer,Computers/Technology,1-3 years,Under 1 year,"Python, SQL"
+68,18-21,India,Bachelor’s degree,Computers/Technology,under 1 years,1-2 years,"Python, C++"
+69,35-39,Other,Master’s degree,,5-10 years,1-2 years,"Python, SQL, C++, Java, MATLAB"
+70,18-21,India,Some college/university study without earning a bachelor’s degree,Computers/Technology,1-3 years,Under 1 year,"Python, SQL, C++, Javascript"
+71,22-24,India,I prefer not to answer,,under 1 years,,"Python, C++, MATLAB"
+72,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Online Service/Internet-based Services,5-10 years,5-10 years,Python
+73,30-34,France,Master’s degree,Computers/Technology,3-5 years,4-5 years,Python
+74,18-21,India,Bachelor’s degree,Other,1-3 years,Under 1 year,Python
+75,18-21,Sweden,Master’s degree,Medical/Pharmaceutical,3-5 years,1-2 years,"Python, C++, Java"
+76,25-29,Nigeria,Master’s degree,Computers/Technology,1-3 years,1-2 years,Python
+77,18-21,Pakistan,Bachelor’s degree,Academics/Education,3-5 years,1-2 years,Python
+78,25-29,Egypt,I prefer not to answer,Computers/Technology,3-5 years,Under 1 year,"Python, SQL, C"
+79,40-44,Norway,Doctoral degree,Non-profit/Service,under 1 years,Under 1 year,Python
+80,18-21,India,Master’s degree,Accounting/Finance,5-10 years,3-4 years,"Python, SQL, Java"
+81,22-24,India,Master’s degree,Energy/Mining,1-3 years,1-2 years,Python
+82,25-29,India,Bachelor’s degree,Broadcasting/Communications,5-10 years,1-2 years,"Python, Java, Javascript"
+83,18-21,India,Master’s degree,Academics/Education,1-3 years,Under 1 year,Python
+84,25-29,India,Master’s degree,Online Business/Internet-based Sales,I have never written code,,
+85,18-21,India,Bachelor’s degree,Academics/Education,1-3 years,1-2 years,"Python, SQL, C, C++, Java, Javascript, MATLAB"
+86,18-21,India,Some college/university study without earning a bachelor’s degree,Computers/Technology,I have never written code,,
+87,22-24,India,Bachelor’s degree,Online Business/Internet-based Sales,1-3 years,1-2 years,"Python, R, SQL"
+88,30-34,Taiwan,No formal education past high school,Computers/Technology,5-10 years,1-2 years,"Python, C, C++, Java"
+89,35-39,India,Master’s degree,Other,5-10 years,5-10 years,Python
+90,22-24,India,Bachelor’s degree,Computers/Technology,5-10 years,4-5 years,"Python, Java, Javascript"
+91,22-24,India,Master’s degree,Retail/Sales,under 1 years,Under 1 year,"Python, R, SQL"
+92,25-29,India,I prefer not to answer,Accounting/Finance,1-3 years,1-2 years,"Python, C++"
+93,18-21,South Korea,No formal education past high school,Computers/Technology,under 1 years,Under 1 year,Python
+94,22-24,Viet Nam,Some college/university study without earning a bachelor’s degree,Academics/Education,1-3 years,1-2 years,"Python, C, Java"
+95,30-34,United States of America,Master’s degree,Accounting/Finance,3-5 years,3-4 years,"Python, SQL, Bash"
+96,30-34,Germany,Doctoral degree,Academics/Education,1-3 years,1-2 years,"Python, R, MATLAB"
+97,25-29,China,Master’s degree,Computers/Technology,3-5 years,3-4 years,"Python, R, Java, MATLAB"
+98,18-21,India,Bachelor’s degree,Academics/Education,1-3 years,1-2 years,"Python, C++"
+99,45-49,Taiwan,Master’s degree,Manufacturing/Fabrication,20+ years,4-5 years,"Python, SQL, C, C++, MATLAB"
+100,25-29,India,Master’s degree,Other,1-3 years,1-2 years,"Python, Java"
+101,25-29,India,Master’s degree,Academics/Education,3-5 years,2-3 years,"Python, R"
+102,22-24,Czech Republic,Master’s degree,Online Business/Internet-based Sales,1-3 years,1-2 years,"Python, SQL"
+103,22-24,United Kingdom of Great Britain and Northern Ireland,Doctoral degree,,10-20 years,5-10 years,"Python, Javascript, MATLAB"
+104,18-21,India,Bachelor’s degree,Academics/Education,1-3 years,1-2 years,"Python, C++, MATLAB"
+105,25-29,France,Master’s degree,Academics/Education,3-5 years,2-3 years,"Python, R, SQL, C, C++, Java, Javascript, Bash, MATLAB"
+106,25-29,South Korea,Master’s degree,Manufacturing/Fabrication,3-5 years,2-3 years,"NULL, R"
+107,30-34,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Online Business/Internet-based Sales,5-10 years,3-4 years,"Python, Javascript"
+108,22-24,India,Master’s degree,Energy/Mining,1-3 years,1-2 years,Python
+109,30-34,Bangladesh,Doctoral degree,,5-10 years,,"Python, SQL, C, C++, Javascript, MATLAB"
+110,35-39,Czech Republic,Doctoral degree,Computers/Technology,5-10 years,5-10 years,"Python, SQL"
+111,30-34,Taiwan,No formal education past high school,Broadcasting/Communications,5-10 years,1-2 years,Python
+112,30-34,United Arab Emirates,Master’s degree,Academics/Education,5-10 years,2-3 years,"Python, C, C++, MATLAB"
+113,55-59,Iraq,Doctoral degree,Academics/Education,20+ years,10-20 years,"Python, C, C++, Java"
+114,25-29,India,Master’s degree,Insurance/Risk Assessment,1-3 years,1-2 years,"Python, SQL, Bash"
+115,25-29,India,Bachelor’s degree,Computers/Technology,under 1 years,Under 1 year,Python
+116,22-24,Other,Bachelor’s degree,,1-3 years,,"Python, SQL, C, C++, MATLAB, Other"
+117,22-24,India,Master’s degree,Computers/Technology,under 1 years,I do not use machine learning methods,"Python, SQL"
+118,25-29,India,Master’s degree,Computers/Technology,1-3 years,Under 1 year,Python
+119,22-24,Kazakhstan,Master’s degree,Shipping/Transportation,I have never written code,,
+120,22-24,India,Master’s degree,Academics/Education,under 1 years,I do not use machine learning methods,"NULL, C"
+121,18-21,Turkey,Some college/university study without earning a bachelor’s degree,,1-3 years,,"Python, C++"
+122,18-21,Saudi Arabia,Bachelor’s degree,Academics/Education,1-3 years,Under 1 year,"Python, C, Java"
+123,25-29,Poland,Master’s degree,Computers/Technology,3-5 years,Under 1 year,"Python, C++"
+124,22-24,Czech Republic,Master’s degree,Computers/Technology,5-10 years,3-4 years,"Python, C++"
+125,40-44,Chile,Master’s degree,Computers/Technology,1-3 years,1-2 years,Python
+126,40-44,Italy,Doctoral degree,Computers/Technology,10-20 years,10-20 years,"Python, SQL, Java, Bash"
+127,22-24,India,Some college/university study without earning a bachelor’s degree,Academics/Education,I have never written code,,
+128,30-34,Saudi Arabia,Bachelor’s degree,Computers/Technology,under 1 years,Under 1 year,"Python, Javascript"
+129,25-29,United Kingdom of Great Britain and Northern Ireland,Master’s degree,Military/Security/Defense,1-3 years,2-3 years,"Python, R"
+130,30-34,Other,I prefer not to answer,Computers/Technology,I have never written code,,
+131,25-29,United States of America,Master’s degree,Manufacturing/Fabrication,5-10 years,5-10 years,"Python, C++, Julia, Bash"
+132,35-39,Other,Master’s degree,Online Service/Internet-based Services,under 1 years,Under 1 year,"Python, SQL"
+133,30-34,Other,Master’s degree,Academics/Education,I have never written code,,
+134,35-39,"Iran, Islamic Republic of...",Doctoral degree,Academics/Education,3-5 years,3-4 years,"Python, C++"
+135,35-39,Russia,Master’s degree,Online Service/Internet-based Services,3-5 years,Under 1 year,"Python, SQL, Javascript"
+136,25-29,Canada,Master’s degree,Other,1-3 years,1-2 years,Python
+137,35-39,India,I prefer not to answer,Computers/Technology,10-20 years,2-3 years,"Python, C++, Java"
+138,30-34,China,Doctoral degree,Other,3-5 years,1-2 years,"Python, MATLAB"
+139,25-29,China,Master’s degree,Academics/Education,under 1 years,Under 1 year,"NULL, Java"
+140,25-29,Israel,Master’s degree,Manufacturing/Fabrication,5-10 years,1-2 years,"Python, SQL, Bash"
+141,18-21,India,Bachelor’s degree,Academics/Education,1-3 years,1-2 years,"Python, SQL, C, C++, Java"
+142,18-21,Viet Nam,Some college/university study without earning a bachelor’s degree,Computers/Technology,under 1 years,Under 1 year,"Python, MATLAB"
+143,22-24,Tunisia,Bachelor’s degree,Academics/Education,3-5 years,1-2 years,"Python, SQL, C, Java, MATLAB"
+144,18-21,India,Bachelor’s degree,Other,1-3 years,Under 1 year,"Python, SQL"
+145,25-29,India,Bachelor’s degree,Academics/Education,under 1 years,Under 1 year,"Python, Java"
+146,22-24,Canada,Doctoral degree,Computers/Technology,1-3 years,Under 1 year,Python
+147,40-44,United States of America,Bachelor’s degree,Other,under 1 years,Under 1 year,Python
+148,18-21,Egypt,Some college/university study without earning a bachelor’s degree,Academics/Education,1-3 years,Under 1 year,"Python, SQL, C++, Java, Javascript, MATLAB"
+149,22-24,China,Some college/university study without earning a bachelor’s degree,Computers/Technology,under 1 years,I do not use machine learning methods,Python
+150,18-21,Saudi Arabia,Bachelor’s degree,Academics/Education,1-3 years,1-2 years,"Python, R, C++, Java"
+151,18-21,India,Master’s degree,Academics/Education,I have never written code,,
+152,35-39,United States of America,Master’s degree,Online Service/Internet-based Services,5-10 years,5-10 years,"Python, SQL"
+153,30-34,Turkey,Doctoral degree,,3-5 years,,"Python, SQL"
+154,25-29,Other,Master’s degree,,3-5 years,,"Python, SQL"
+155,18-21,Russia,Bachelor’s degree,Online Service/Internet-based Services,1-3 years,1-2 years,"Python, Java"
+156,25-29,Other,Master’s degree,Computers/Technology,1-3 years,Under 1 year,Python
+157,22-24,Tunisia,Master’s degree,Academics/Education,I have never written code,,
+158,25-29,India,Master’s degree,,1-3 years,1-2 years,Python
+159,35-39,India,Master’s degree,Computers/Technology,1-3 years,2-3 years,"Python, R, MATLAB"
+160,25-29,"Iran, Islamic Republic of...",I prefer not to answer,Academics/Education,I have never written code,,
+161,35-39,Argentina,Doctoral degree,Other,3-5 years,4-5 years,"Python, C++, MATLAB"
+162,22-24,Viet Nam,Bachelor’s degree,Medical/Pharmaceutical,under 1 years,Under 1 year,Python
+163,30-34,India,Master’s degree,Computers/Technology,10-20 years,1-2 years,"Python, Javascript"
+164,25-29,Taiwan,Master’s degree,Computers/Technology,5-10 years,4-5 years,"Python, R, SQL"
+165,25-29,Egypt,Bachelor’s degree,,under 1 years,,"Python, SQL, Java"
+166,50-54,Indonesia,Doctoral degree,Academics/Education,20+ years,10-20 years,"NULL, SQL, C, C++, Java, Javascript, MATLAB"
+167,30-34,India,Master’s degree,Computers/Technology,1-3 years,Under 1 year,Python
+168,40-44,Netherlands,Bachelor’s degree,Computers/Technology,20+ years,2-3 years,Python
+169,50-54,United States of America,Doctoral degree,Computers/Technology,10-20 years,10-20 years,"Python, R, Java, MATLAB"
+170,25-29,India,Bachelor’s degree,Hospitality/Entertainment/Sports,1-3 years,2-3 years,"Python, SQL, MATLAB, Other"
+171,35-39,India,Doctoral degree,Academics/Education,1-3 years,4-5 years,"Python, R, SQL, C++, Java"
+172,22-24,South Korea,Bachelor’s degree,Academics/Education,3-5 years,Under 1 year,"Python, C++"
+173,22-24,Egypt,Bachelor’s degree,Non-profit/Service,under 1 years,Under 1 year,Python
+174,25-29,Egypt,Master’s degree,Academics/Education,5-10 years,I do not use machine learning methods,"Python, C, Java, Javascript, MATLAB"
+175,18-21,Other,Bachelor’s degree,Academics/Education,1-3 years,Under 1 year,"Python, R, C, C++"
+176,25-29,Thailand,Bachelor’s degree,Manufacturing/Fabrication,1-3 years,I do not use machine learning methods,"NULL, C, MATLAB"
+177,18-21,India,Bachelor’s degree,Academics/Education,under 1 years,Under 1 year,"Python, C, Java"
+178,25-29,Pakistan,Master’s degree,Online Service/Internet-based Services,1-3 years,2-3 years,"Python, C++, Bash"
