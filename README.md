@@ -1,4 +1,6 @@
-# Women in tech (Proyecto 2 - Equipo 2)
+# Women in tech 
+
+Proyecto 2 - Equipo 2 / Promoción C de Data Analytics Adalab
 
 # Información general
 ***
