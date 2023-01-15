@@ -1,9 +1,12 @@
-# Proyecto 2 - Equipo 2
+# Women in tech 
+
+Proyecto 2 - Equipo 2 / Promoción C de Data Analytics Adalab
 
 # Información general
 ***
 
-Este repositorio contiene un proyecto académico encargado por Adalab, para la exploración, análisis y visualización de diferentes datos.
+ONU Mujeres ha realizado unas encuestas internacionales a hombres y mujeres que trabajan en el sector tecnológico. Nos han facilitado esos datos porqué necesitan que realicemos un estudio a nivel global sobre el papel de la mujer en este sector.
+Su intención es preparar 6 programas, preparados especialmente para cada continente.
 
 ## Instalaciones
 ***
