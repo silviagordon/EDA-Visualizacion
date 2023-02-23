@@ -13,9 +13,11 @@
 - Notebooks: comprende los distintos archivos jupyter que se han ido creando durante el proyecto divididos en diferentes temáticas.
 
 📍 Se necesitarán las librerias:
-```
+
 - Pandas
+
 - Matplotlib / Seaborn
+
 - Sidetable
+
 - Sckit-Learn
-```
