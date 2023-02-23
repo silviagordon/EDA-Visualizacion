@@ -1,28 +1,21 @@
-# Women in tech 
+# EDA - Visualización
 
-Proyecto 2 - Equipo 2 / Promoción C de Data Analytics Adalab
+🔑 Este repositório contiene un proyecto académido del BootCamp Data Analyst de Adalab. A través de una encuesta internacional realizada a hombres y mujeres del sector tecnológico, realizar un estudio sobre el papel de la mujer en dicho sector. La intención futura es que la empresa que nos ha contratado para el análisis, prepare seis programas diferentes para cada contiene en base a nuesto trabajo.
 
-# Información general
-***
+📍 Los archivos están organizados como:
 
-ONU Mujeres ha realizado unas encuestas internacionales a hombres y mujeres que trabajan en el sector tecnológico. Nos han facilitado esos datos porqué necesitan que realicemos un estudio a nivel global sobre el papel de la mujer en este sector.
-Su intención es preparar 6 programas, preparados especialmente para cada continente.
+- Database: comprende una base de datos SQL donde se encuentra la información de la encuesta.
 
-## Instalaciones
-***
-Para esta tarea haremos uso de las siguientes tecnologías y paquetes de Python:
+- Datos: comprende los distintos archivos csv que se han ido creando durante el proyecto.
+
+- Gráficos: comprende las distintas gráficas que se han ido realizado durante el proyecto en formato png.
+
+- Notebooks: comprende los distintos archivos jupyter que se han ido creando durante el proyecto divididos en diferentes temáticas.
+
+📍 Se necesitarán las librerias:
 ```
 - Pandas
 - Matplotlib / Seaborn
 - Sidetable
 - Sckit-Learn
 ```
-
-## Integrantes 
-***
-  * Noemí Azorín
-  * Laura Onteniente
-  * Lourdes Ochoa
-  * Silvia Gordon
-  * Marta Nuñez
-
